@@ -1,0 +1,6 @@
+module Pods_MyTroopers {
+  umbrella header "Pods-MyTroopers-umbrella.h"
+
+  export *
+  module * { export * }
+}
